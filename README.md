@@ -26,16 +26,10 @@
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ### Others
-
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
 ![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ros)
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat)
-
-
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## 📈 GitHub Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Tanakavitor&show_icons=true&theme=dracula)
 
